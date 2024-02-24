@@ -1,0 +1,28 @@
+Library ID,Number,Replicate,Treatment,Fraction
+F1,37,1,Glu,Right tail
+F2,38,2,Glu,Right tail
+F3,39,3,Glu,Right tail
+F4,40,1,Gal,Right tail
+F5,41,2,Gal,Right tail
+F6,42,3,Gal,Right tail
+F10,46,1,Glu,Left tail
+F11,47,2,Glu,Left tail
+F12,48,3,Glu,Left tail
+G1,49,1,Gal,Left tail
+G2,50,2,Gal,Left tail
+G3,51,3,Gal,Left tail
+G4,52,1,Oligo,Left tail
+G5,53,2,Oligo,Left tail
+G6,54,3,Oligo,Left tail
+G7,55,1,Glu,Middle
+G8,56,2,Glu,Middle
+G9,57,3,Glu,Middle
+G10,58,1,Gal,Middle
+G11,59,2,Gal,Middle
+G12,60,3,Gal,Middle
+H1,61,1,Oligo,Right tail
+H2,62,2,Oligo,Right tail
+H3,63,3,Oligo,Right tail
+H4,64,1,Oligo,Middle 
+H5,65,2,Oligo,Middle 
+H6,66,3,Oligo,Middle 

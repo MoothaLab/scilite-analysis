@@ -1,0 +1,1 @@
+python ../scilite-pipeline/driver.py -e ./pipeline_args.csv -o ./ -m 15000 -p -s --phase_range=8

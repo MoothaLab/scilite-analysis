@@ -1,0 +1,10 @@
+Sequencing sample name,Name,Treatment,Time,O2,Harvesting ,DNA isolation,% G>A,,Sample name,Sample on plate
+1D0,1E,NT,0 days,21%,12/19/2019,12/19/2019,54.7,,1D0,Plate1-A1
+2D0,2E,NT,0 days,21%,12/19/2019,12/19/2019,49.6,,1D10,Plate1-A2
+3D0,3E,NT,0 days,21%,12/19/2019,12/19/2019,54.7,,2D0,Plate1-A3
+1D10,1E,NT,10 days,21%,12/30/2019,1/27/2020,39.7,,4D0,Plate1-A7
+2D10,2E,NT,10 days,21%,12/30/2019,1/27/2020,37.2,,4D10,Plate1-A8
+3D10,3E,NT,10 days,21%,12/30/2019,1/27/2020,34.3,,5D0,Plate1-A9
+7D10,1E,NT,10 days,1%,12/30/2019,1/27/2020,60.5,,7D10,Plate1-B1
+8D10,2E,NT,10 days,1%,12/30/2019,1/27/2020,54.2,,8D10,Plate1-B2
+9D10,3E,NT,10 days,1%,12/30/2019,1/27/2020,56.2,,9D10,Plate1-B3
